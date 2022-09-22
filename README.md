@@ -41,3 +41,14 @@ Each generative model training step occurse in `train_generator` function, descr
 *   You can set one of three `verboses` that prints info you want => 0 == nothing || 1 == model architecture || 2 == print optimizer || 3 == model parameters size.
 *   Each time you train model weights and plot(if `save_plots` == True) will be saved in `save_dir`.
 *   You can find a `configs` file in `save_dir` that contains some information about run. 
+
+# Results
+
+Trained 100 epochs:
+
+![GAN](https://user-images.githubusercontent.com/47561760/191741233-21097c5e-f1f6-4fa3-ba68-77f089c9f12f.gif)
+
+Trained 300 epochs:
+
+![GAN-v1](https://user-images.githubusercontent.com/47561760/191741083-05fcaedc-e7a2-4b0e-bf80-5d8d6786ab38.gif)
+
