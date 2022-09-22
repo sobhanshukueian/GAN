@@ -46,9 +46,11 @@ Each generative model training step occurse in `train_generator` function, descr
 
 Trained 100 epochs:
 
+![epoch-170-loss-plot](https://user-images.githubusercontent.com/47561760/191741560-780e3abb-5208-4aca-90d6-594458bef988.png)
 ![GAN](https://user-images.githubusercontent.com/47561760/191741233-21097c5e-f1f6-4fa3-ba68-77f089c9f12f.gif)
 
-Trained 300 epochs:
+Trained 160 epochs:
 
+![epoch-160-loss-plot](https://user-images.githubusercontent.com/47561760/191741686-b12eef8b-7efe-4258-95c2-7197996a491e.png)
 ![GAN-v1](https://user-images.githubusercontent.com/47561760/191741083-05fcaedc-e7a2-4b0e-bf80-5d8d6786ab38.gif)
 
