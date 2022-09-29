@@ -23,7 +23,7 @@ train_dataset = datasets.MNIST('mnist/', train=True, download=True, transform=tr
 test_dataset = datasets.MNIST('mnist/', train=False, download=True, transform=transform)
 ```
 
-#Model
+# Model
 In simple GAN, both discriminator and generator have simple architecture composed of fully connected layers, and we have leaky relu activation functions in the discriminator to prevent it from becoming zero and relu activation functions in the generator.
 
 # Train
